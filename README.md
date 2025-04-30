@@ -5,8 +5,6 @@
 
 An intelligent voice assistant for Kinyarwanda language interaction, developed as part of the Intelligent Robotics course.
 
-![Interface Demo](media/interface.png)  
-
 ## Features 🌟
 - 🎙️ **Kinyarwanda ASR** using KinyaWhisper (16kHz optimized)
 - 🧠 **Contextual Understanding** with fuzzy logic matching
